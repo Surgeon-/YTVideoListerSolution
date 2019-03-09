@@ -1,0 +1,19 @@
+
+1. To run the program, click on YTVideoLister.exe
+
+2. The program will start listing videos of the chosen channel* in the console
+   window, 10** at a time. They will be presented in the reverse chronological
+   order. Use N and P buttons on the keyboard to go through the pages of found
+   videos (N = [N]ext page, P = [P]revious page). Once you've seen the name of
+   the video that you'd like to watch, note its number and close the program.
+   A "output.txt" file should now be present next to the program executable and
+   other files. Open it with your text editor of choice, and you'll find the
+   link to your video under the same number, along with the video description.
+   Copy the link to your browser's URL bar and enjoy your spoiler-free video!
+   (In some text editors, like Notepad++, you can simply click on the link.)   
+   
+* Note: This can be changed in the "config.txt" file found next to the program
+  executable.
+
+** Note: This can be changed in the "config.txt" file found next to the program
+  executable.

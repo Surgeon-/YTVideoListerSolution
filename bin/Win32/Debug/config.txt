@@ -1,0 +1,9 @@
+// When you open a channel's main page on YouTube, you will see
+// something like "https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg"
+// in the URL bar. The part after "channel/" is the YouTube Channel ID.
+// The program will target the channel whose ID you supply below.
+// The default is "UCK5eBtuoj_HkdXKHNmBLAXg" (AfreecaTv Live).
+CHANNEL_ID = "UCK5eBtuoj_HkdXKHNmBLAXg"
+
+// An integer between 1 and 50 (inclusive).
+RESULTS_PER_PAGE = "10"
